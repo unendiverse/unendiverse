@@ -1,4 +1,9 @@
-### Hi there 👋
+### rahulrakida
+- 🔭 I’m currently working on nothing (school)
+- 🌱 I’m currently learning JavaScript (i hate it)
+- 😄 Pronouns: he/him
+
+
 
 <!--
 **rahulrakida/rahulrakida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
