@@ -1,8 +1,7 @@
 ### rahulrakida
 - 🔭 I’m currently working on nothing (school)
-- 🌱 I’m currently learning JavaScript (i hate it)
 - 😄 Preferred pronouns: he/him
-
+- ⚡ Fun fact: While I enjoy programming, I do _not_ enjoy Computing class.
 
 
 <!--
