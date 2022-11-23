@@ -1,7 +1,7 @@
 ### rahulrakida
 - 🔭 I’m currently working on nothing (school)
 - 🌱 I’m currently learning JavaScript (i hate it)
-- 😄 Preferred pronouns: they/them
+- 😄 Preferred pronouns: he/him
 
 
 
