@@ -1,8 +1,5 @@
 ### unendiverse
 - 🔭 I’m currently working on my website.
-- 😄 Preferred pronouns: any! use the pronouns YOU prefer.
-- ⚡ Fun fact: While I enjoy programming, I do _not_ enjoy Computing class.
-
 
 <!--
 unendiverse/unendiverse is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
